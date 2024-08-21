@@ -1,0 +1,5 @@
+.dockerignore
+venv
+.env
+.gitignore
+docker-compose.yml
